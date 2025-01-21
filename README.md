@@ -1,2 +1,2 @@
-# Datastrukturer
-Implementationer av datastrukturer i språket C.
+# Data structures
+Implementation of data structures in C.
